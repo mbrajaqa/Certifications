@@ -12,5 +12,5 @@
 
 **Recognition:** Received client appreciation for efficiently handling mobile banking, cutover testing, and demonstrating strong knowledge of two modules within the Gen P Team.
 
-📄 [View Award Certificate](Infosys_Insta_Award_June_2024.pdf)
+📄 [View Award Certificate](Insta Award.pdf)
 
